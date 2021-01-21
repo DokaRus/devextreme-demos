@@ -125,7 +125,7 @@ export default {
       editBoxValue: simpleProducts[0],
       product: simpleProducts[0].ID,
       searchModeOption: 'contains',
-      searchExprOption: 'Name',
+      searchExprOption: 'Category',
       searchTimeoutOption: 200,
       minSearchLengthOption: 0,
       showDataBeforeSearchOption: false,
